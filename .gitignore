@@ -1,0 +1,41 @@
+# Compiled class files
+*.class
+.classpath
+
+# Log files
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Maven specific files
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+test-output/
+
+# Eclipse specific files
+*.pydevproject
+.project
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+.localstore/
+.settings/
+.loadpath
+
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+*.iws
+out/
+
